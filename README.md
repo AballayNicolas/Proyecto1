@@ -37,29 +37,6 @@ En el archivo **main.py**, se creará una interfaz utilizando la biblioteca **Fa
 En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaustivo de los datos y la factiblidad de modelos de clasificación para el caso en estudio. Esto incluirá la visualización de los datos,  y la generación de conclusiones relevantes entorno a las variables y la elección del modelo.
 
 
-### 4. Desarrollo del Modelo de Machine Learning ( _enlace:_ [model](https://github.com/AballayNicolas/Proyecto1/blob/main/Machine_learning.ipynb))
+### 4. Desarrollo del Modelo de Machine Learning ( _enlace:_ [modelo_Machine_Learning](https://github.com/AballayNicolas/Proyecto1/blob/main/Machine_learning.ipynb))
 
 En el archivo **model**, se implementará un modelo de Machine Learning utilizando **Similitud de cosenos**. Este modelo se entrenó utilizando los datos preprocesados y preparados durante el ETL
-
-
-<div style="display:flex; align-items:center;">
-  <div style="width:50%; padding-right:20px;">
-    <h2>Herramientas Utilizadas</h2>
-    <ul style="text-align: justify;">
-      <li><b>📊Scikit Learn</b>: Utilizado para vectorizar, tokenizar y calcular la similitud coseno.</li>
-      <li><b>🐍Python</b>: Lenguaje de programación principal utilizado en el desarrollo del proyecto.</li>
-      <li><b>💻Numpy</b>: Utilizado para realizar operaciones numéricas y manipulación de datos.</li>
-      <li><b>🐼Pandas</b>: Utilizado para la manipulación y análisis de datos estructurados.</li>
-      <li><b>📈Matplotlib</b>: Utilizado para la visualización de datos y generación de gráficos.</li>
-      <li><b>📳FastAPI</b>: Utilizado para crear la interfaz de la aplicación y procesar los parámetros de funciones.</li>
-      <li><b>🦄Uvicorn</b>: Servidor ASGI utilizado para ejecutar la aplicación FastAPI.</li>
-      <li><b>🌐Render</b>: Plataforma utilizada para el despliegue del modelo y la aplicación.</li>
-    </ul>
-  </div>
-  <div style="width:50%; text-align:center;">
-    <figure>
-      <img src="Image/infograph.jpg" alt="Ejemplo del deployment usando Heroku(Render)" style="margin-left:auto; margin-right:auto;" />
-      <figcaption style="font-size: smaller; font-style: italic; text-align: center;">Descripción del despliegue de una aplicación desde un repositorio en GitHub usando Heroku (similar a Render)</figcaption>
-    </figure>
-  </div>
-</div>
