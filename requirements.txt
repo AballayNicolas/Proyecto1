@@ -6,5 +6,3 @@ pyarrow
 fastparquet
 textblob
 spacy
-seaborn
-matplotlib
