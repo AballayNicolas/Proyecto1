@@ -224,7 +224,7 @@ def developer_reviews_analysis(desarrollador: str):
 
 archivo = r'Datasets/steam_games_normalizado.csv'
 df_games = pd.read_csv(archivo)
-df_subset = df_games.head(20000)  # Hacemos un recorte más pequeño del dataframe
+df_subset = df_games.head(5000)  # Hacemos un recorte más pequeño del dataframe
 
 # Llenar valores NaN en la columna 'genres' con una cadena vacía para evitar problemas
 df_subset['genres'] = df_subset['genres'].fillna('')
