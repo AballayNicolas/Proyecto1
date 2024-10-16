@@ -6,3 +6,4 @@ pyarrow
 fastparquet
 textblob
 spacy
+numpy
