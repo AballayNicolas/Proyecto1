@@ -37,6 +37,6 @@ En el archivo **main.py**, se creará una interfaz utilizando la biblioteca **Fa
 En el notebook **EDA.ipynb**, se realizará un **`INFORME`** de Análisis exhaustivo de los datos y la factiblidad de modelos de clasificación para el caso en estudio. Esto incluirá la visualización de los datos,  y la generación de conclusiones relevantes entorno a las variables y la elección del modelo.
 
 
-### 4. Desarrollo del Modelo de Machine Learning ( _enlace:_ [modelo_Machine_Learning](https://github.com/AballayNicolas/Proyecto1/blob/main/Machine_learning.ipynb))
+### 4. Desarrollo del Modelo de Machine Learning ( _enlace:_[modelo_Machine_Learning](https://github.com/AballayNicolas/Proyecto1/blob/main/Machine_learning.ipynb))
 
 En el archivo **model**, se implementará un modelo de Machine Learning utilizando **Similitud de cosenos**. Este modelo se entrenó utilizando los datos preprocesados y preparados durante el ETL
